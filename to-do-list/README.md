@@ -11,4 +11,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![To-do-list page](/to-do-list/to-do-screen.png "Screen of page")
+![To-do-list page](/to-do-screen.png "Screen of page")
